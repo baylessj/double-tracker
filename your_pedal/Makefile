@@ -2,7 +2,7 @@
 TARGET = your_pedal
 
 # Sources
-CPP_SOURCES = your_pedal.cpp
+CPP_SOURCES = your_pedal.cpp flanger.cpp
 
 # Library Locations
 LIBDAISY_DIR = ../libDaisy
